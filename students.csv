@@ -1,0 +1,10 @@
+stud_name,course_name,teacher,ects,classroom,grade,img_url
+Lennon,Python,Tobias,40,cr3,12,https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcToo2M6jRIaCoC3CrVqSdcfG8EQNkGkXwCVRQ&usqp=CAU
+Lennon,IoT,Tobias,5,cr2,-3,https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcToo2M6jRIaCoC3CrVqSdcfG8EQNkGkXwCVRQ&usqp=CAU
+Lennon,Fullstack JS,Tobias,30,cr1,-3,https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcToo2M6jRIaCoC3CrVqSdcfG8EQNkGkXwCVRQ&usqp=CAU
+Azariah,Python,Thomas,30,cr2,4,https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTLv0JzGytms1buAcaOKfIUFmKzzWJ3B2FBXA&usqp=CAU
+Azariah,Security,Tobias,40,cr3,10,https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTLv0JzGytms1buAcaOKfIUFmKzzWJ3B2FBXA&usqp=CAU
+Azariah,IoT,Tobias,25,cr3,2,https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTLv0JzGytms1buAcaOKfIUFmKzzWJ3B2FBXA&usqp=CAU
+Royal,Python,Thomas,5,cr1,7,https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcToo2M6jRIaCoC3CrVqSdcfG8EQNkGkXwCVRQ&usqp=CAU
+Royal,IoT,Thomas,30,cr3,2,https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcToo2M6jRIaCoC3CrVqSdcfG8EQNkGkXwCVRQ&usqp=CAU
+Royal,Fullstack JS,Thomas,40,cr3,12,https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcToo2M6jRIaCoC3CrVqSdcfG8EQNkGkXwCVRQ&usqp=CAU
