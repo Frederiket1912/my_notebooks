@@ -11,3 +11,9 @@ Binder links:
   - link til Week 2 Exercise: https://notebooks.gesis.org/binder/jupyter/user/frederiket1912-my_notebooks-k8ttyup6/notebooks/Week%202%20Exercises.ipynb
 
 Jeg har arbejdet mest i VS Code så der er ikke så meget at se i min .ipynb fil for ugen, der er dog beskrivelser af hvor besvarelserne til de forskellige opgaver kan findes.
+
+# Week 3
+
+Binder link: https://notebooks.gesis.org/binder/jupyter/user/frederiket1912-my_notebooks-q0lte2sy/notebooks/Week%203%20Exercises.ipynb
+
+Jeg har ikke lavet exercise 2 og 3 (som var valgfri)
