@@ -17,3 +17,9 @@ Jeg har arbejdet mest i VS Code så der er ikke så meget at se i min .ipynb fil
 Binder link: https://notebooks.gesis.org/binder/jupyter/user/frederiket1912-my_notebooks-q0lte2sy/notebooks/Week%203%20Exercises.ipynb
 
 Jeg har ikke lavet exercise 2 og 3 (som var valgfri)
+
+# Week 4
+
+Binder link: Havde problemer med binder denne uge, får 'request cancelled while waiting for connection' når jeg prøver at lave den.
+
+Jeg har lavet exercise 1.
