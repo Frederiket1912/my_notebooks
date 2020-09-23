@@ -23,3 +23,9 @@ Jeg har ikke lavet exercise 2 og 3 (som var valgfri)
 Binder link: Havde problemer med binder denne uge, får 'request cancelled while waiting for connection' når jeg prøver at lave den.
 
 Jeg har lavet exercise 1.
+
+# Week 5
+
+Jeg har lavet Exercise 1 og 2
+
+Binder link: https://hub.gke1.mybinder.org/user/frederiket1912-my_notebooks-xxiawn8n/notebooks/Week_5_Exercises.ipynb
