@@ -29,3 +29,11 @@ Jeg har lavet exercise 1.
 Jeg har lavet Exercise 1 og 2
 
 Binder link: https://hub.gke1.mybinder.org/user/frederiket1912-my_notebooks-xxiawn8n/notebooks/Week_5_Exercises.ipynb
+
+# Week 6
+
+Jeg har lavet Exercise 1 og 2
+
+Binder links:
+module: https://hub.gke2.mybinder.org/user/frederiket1912-my_notebooks-006gui1q/edit/my_modules/book_handler.py
+test af module: https://hub.gke2.mybinder.org/user/frederiket1912-my_notebooks-006gui1q/notebooks/Week_6_Exercise_2.ipynb
