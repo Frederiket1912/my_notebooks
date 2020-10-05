@@ -1,14 +1,10 @@
 # Week 1
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Frederiket1912/my_notebooks/master?filepath=%2Fblob%2Fmaster%2FWeek_1_Exercises.ipynb)
-
-De obligatoriske opgaver er i filen "Week 1 Exercises", filen der hedder "01 cless exercise" indeholder opgaver fra de enkelte lærings-notebooks.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Frederiket1912/my_notebooks/master?filepath=Week_1_Exercises.ipynb)
 
 # Week 2
 
-Binder links:
-  - link til hele binderen: https://notebooks.gesis.org/binder/jupyter/user/frederiket1912-my_notebooks-k8ttyup6/tree
-  - link til Week 2 Exercise: https://notebooks.gesis.org/binder/jupyter/user/frederiket1912-my_notebooks-k8ttyup6/notebooks/Week%202%20Exercises.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Frederiket1912/my_notebooks/master?filepath=Week_2_Exercises.ipynb)
 
 Jeg har arbejdet mest i VS Code så der er ikke så meget at se i min .ipynb fil for ugen, der er dog beskrivelser af hvor besvarelserne til de forskellige opgaver kan findes.
 
