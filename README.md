@@ -25,3 +25,7 @@ Jeg har arbejdet mest i VS Code så der er ikke så meget at se i min .ipynb fil
 
 module: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Frederiket1912/my_notebooks/master?filepath=Week_6_Exercise.ipynb)
 test af module: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Frederiket1912/my_notebooks/master?filepath=Week_6_Exercise_2.ipynb)
+
+# Week 7
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Frederiket1912/my_notebooks/master?filepath=Week_7_Exercise.ipynb)
