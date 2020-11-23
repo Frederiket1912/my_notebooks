@@ -30,9 +30,6 @@ test af module: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinde
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Frederiket1912/my_notebooks/master?filepath=Week_7_Exercise.ipynb)
 
-# Week 8
-
-Jeg fik ikke lavet opgaverne denne uge
 
 # Week 9
 
@@ -41,3 +38,7 @@ Jeg fik ikke lavet opgaverne denne uge
 # Week 12
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Frederiket1912/my_notebooks/master?filepath=Week_12_Exercise.ipynb)
+
+# Week 13
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Frederiket1912/my_notebooks/master?filepath=Week_13_Exercise.ipynb)
