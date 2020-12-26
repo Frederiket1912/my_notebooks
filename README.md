@@ -42,3 +42,7 @@ test af module: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinde
 # Week 13
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Frederiket1912/my_notebooks/master?filepath=Week_13_Exercise.ipynb)
+
+# Exam
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Frederiket1912/my_notebooks/master?filepath=exam_presentation.ipynb)
